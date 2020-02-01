@@ -100,8 +100,9 @@ input{
     width: 900px;
     height: 35px;
     border: solid lightgray 1px;
-    padding: 5px;
+    margin: auto;
 }
+
 
  #message {
 
@@ -122,6 +123,7 @@ h3{
  #Forms {
     margin: auto;
     width: 900px;
+
  }
 
  .button{
